@@ -3,7 +3,7 @@ Google Sheets üzerinde raporlama
 # 🌊 Kıyı Bazlı Satış Analizi (Coastal-Based Sales Analysis)
 
 Bu proje, **Google Sheets** kullanılarak satış verilerinin **kıyı bazlı** analiz edilmesini amaçlayan bir veri analizi ve raporlama çalışmasıdır.  
-Satış ve müşteri verileri CSV dosyalarından **IMPORTDATA** fonksiyonu ile içe aktarılmış, tablolar **XLOOKUP** ile birleştirilmiş ve sonuçlar pivot tablolar ve grafiklerle raporlanmıştır.
+Satış ve müşteri verileri CSV dosyalarından **IMPORTDATA** fonksiyonu ile içe aktarılmış, veriler temizlenmiş, tablolar **XLOOKUP** ile birleştirilmiş ve sonuçlar pivot tablolar ve grafiklerle raporlanmıştır.
 
 ---
 
